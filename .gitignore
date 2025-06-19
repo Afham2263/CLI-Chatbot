@@ -1,0 +1,23 @@
+# Ignore virtual environments
+env/
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Model/artifact caches
+*.bin
+*.pth
+*.pt
+
+# Hugging Face cache
+~/.cache/huggingface
