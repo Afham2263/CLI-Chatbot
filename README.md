@@ -1,5 +1,5 @@
 
-# 🧠 CLI Chatbot — Local LLM on Hugging Face
+#  CLI Chatbot — Local LLM on Hugging Face
 
 A dead-simple, local command-line chatbot built in Python using Hugging Face models.
 
@@ -7,18 +7,18 @@ It remembers short conversations, runs fully offline, and doesn’t melt your GP
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🤖 Runs locally with `google/flan-t5-base` or other small Hugging Face models
-- 🧠 Maintains memory of recent turns (sliding window)
-- 🖥️ Clean CLI interface — just type and talk
-- 🧼 Modular Python code: no spaghetti, no drama
-- ✅ No GPU needed — runs fine on CPU
-- 🛑 Graceful exit with `/exit`
+-  Runs locally with `google/flan-t5-base` or other small Hugging Face models
+-  Maintains memory of recent turns (sliding window)
+-  Clean CLI interface — just type and talk
+-  Modular Python code: no spaghetti, no drama
+-  No GPU needed — runs fine on CPU
+-  Graceful exit with `/exit`
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
   
   ```
@@ -34,7 +34,7 @@ CLI-Chatbot/
 
 ddd
 
-## 🛠️ Setup
+##  Setup
 
 1. Clone this repo or dump the files somewhere:
    ```bash
@@ -56,7 +56,7 @@ ddd
 
 ---
 
-## 🧪 Example Chat
+##  Example Chat
 
 ```
 Welcome to CLI Chatbot! Type /exit to quit.
@@ -76,7 +76,7 @@ Exiting chatbot. Goodbye!
 
 ---
 
-## 🔁 Commands
+##  Commands
 
 | Command                  | What it does            |
 | ------------------------ | ----------------------- |
@@ -85,7 +85,7 @@ Exiting chatbot. Goodbye!
 
 ---
 
-## 🤓 Customize
+##  Customize
 
 Wanna try different models? Crack open `model_loader.py` and change this:
 
@@ -107,6 +107,6 @@ This is for testing and learning. Some models may produce inaccurate, inappropri
 
 ---
 
-## 🧠 Credits
+##  Credits
 
-Built by Afham 
+Built by ME
